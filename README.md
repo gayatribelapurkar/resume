@@ -1,2 +1,2 @@
 # resume
-Gayatri Belapurkar's resume using LaTex
+Gayatri Belapurkar's resume using LaTex.
